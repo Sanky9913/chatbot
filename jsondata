@@ -1,0 +1,97 @@
+Service_wise_sys
+: 
+Array(1526)
+[0 … 99]
+0
+: 
+{Id: 1, Service_name: 'ThirdPartyBaseRequest_sys', Layer: 'SYS', Hits: '43168', Date_day: '2025-04-24 00:00:00.000000'}
+1
+: 
+{Id: 2, Service_name: 'atmMobileNoEnq_sys', Layer: 'SYS', Hits: '143', Date_day: '2025-04-24 00:00:00.000000'}
+2
+: 
+{Id: 3, Service_name: 'ckycPersonalDetails_NBC_sys', Layer: 'SYS', Hits: '1554', Date_day: '2025-04-24 00:00:00.000000'}
+3
+: 
+{Id: 4, Service_name: 'customerToCustomerFundTransferMR_sys', Layer: 'SYS', Hits: '48059', Date_day: '2025-04-24 00:00:00.000000'}
+4
+: 
+{Id: 5, Service_name: 'debitCardDetails_NBC_sys', Layer: 'SYS', Hits: '1551', Date_day: '2025-04-24 00:00:00.000000'}
+5
+: 
+{Id: 6, Service_name: 'demoAadharValidate_NBC_sys', Layer: 'SYS', Hits: '1554', Date_day: '2025-04-24 00:00:00.000000'}
+6
+: 
+{Id: 7, Service_name: 'fatcaDetailsCaptureCreateAmend_NBC_sys', Layer: 'SYS', Hits: '1551', Date_day: '2025-04-24 00:00:00.000000'}
+7
+: 
+{Id: 8, Service_name: 'aadharLinkingAccountDetailsThrCIF_NBC_sys', Layer: 'SYS', Hits: '1522', Date_day: '2025-04-24 00:00:00.000000'}
+8
+: 
+{Id: 9, Service_name: 'CKYCSearch_sys', Layer: 'SYS', Hits: '1483', Date_day: '2025-04-24 00:00:00.000000'}
+9
+: 
+{Id: 10, Service_name: 'dedupOnPanMobile_NBC_sys', Layer: 'SYS', Hits: '25976', Date_day: '2025-04-24 00:00:00.000000'}
+10
+: 
+{Id: 11, Service_name: 'form60Details_NBC_sys', Layer: 'SYS', Hits: '28763', Date_day: '2025-04-24 00:00:00.000000'}
+11
+: 
+{Id: 12, Service_name: 'ckycPersonalDetailsEnquiry_NBC_sys', Layer: 'SYS', Hits: '562838', Date_day: '2025-04-24 00:00:00.000000'}
+12
+: 
+{Id: 13, Service_name: 'annualIncomeEnquiry_NBC_sys', Layer: 'SYS', Hits: '415583', Date_day: '2025-04-24 00:00:00.000000'}
+13
+: 
+{Id: 14, Service_name: 'ReferenceKeyEnquiry', Layer: 'SYS', Hits: '308', Date_day: '2025-04-24 00:00:00.000000'}
+14
+: 
+{Id: 15, Service_name: 'inbAccountStatement_sys', Layer: 'SYS', Hits: '246043', Date_day: '2025-04-24 00:00:00.000000'}
+15
+: 
+{Id: 16, Service_name: 'inbLoanAccountStatement_sys', Layer: 'SYS', Hits: '10595', Date_day: '2025-04-24 00:00:00.000000'}
+16
+: 
+{Id: 17, Service_name: 'leadIdStatusEnquiry_sys', Layer: 'SYS', Hits: '25900', Date_day: '2025-04-24 00:00:00.000000'}
+17
+: 
+{Id: 18, Service_name: 'thirdPartyGenericService_sys', Layer: 'SYS', Hits: '5280', Date_day: '2025-04-24 00:00:00.000000'}
+18
+: 
+{Id: 19, Service_name: 'customerDetails_NBC_sys', Layer: 'SYS', Hits: '363957', Date_day: '2025-04-24 00:00:00.000000'}
+19
+: 
+{Id: 20, Service_name: 'additionalDetailsForEntityEnquiry_NBC_sys', Layer: 'SYS', Hits: '51690', Date_day: '2025-04-24 00:00:00.000000'}
+20
+: 
+{Id: 21, Service_name: 'customerDetailsUpdate_NBC_sys', Layer: 'SYS', Hits: '9', Date_day: '2025-04-24 00:00:00.000000'}
+21
+: 
+{Id: 22, Service_name: 'IMPSoutwardProcessPUT_sys', Layer: 'SYS', Hits: '2586', Date_day: '2025-04-24 00:00:00.000000'}
+22
+: 
+{Id: 23, Service_name: 'IMPSoutwardProcessGET_sys', Layer: 'SYS', Hits: '2583', Date_day: '2025-04-24 00:00:00.000000'}
+23
+: 
+{Id: 24, Service_name: 'siEnquirySummary_NBC_sys', Layer: 'SYS', Hits: '1128', Date_day: '2025-04-24 00:00:00.000000'}
+24
+: 
+{Id: 25, Service_name: 'adhocReportParameterMaintenance_NBC_sys', Layer: 'SYS', Hits: '149', Date_day: '2025-04-24 00:00:00.000000'}
+25
+: 
+{Id: 26, Service_name: 'bgValidate_sys', Layer: 'SYS', Hits: '14', Date_day: '2025-04-24 00:00:00.000000'}
+26
+: 
+{Id: 27, Service_name: 'virtualCardATM_sys', Layer: 'SYS', Hits: '2215', Date_day: '2025-04-24 00:00:00.000000'}
+27
+: 
+{Id: 28, Service_name: 'panMatchingEnquiry_sys', Layer: 'SYS', Hits: '518', Date_day: '2025-04-24 00:00:00.000000'}
+28
+: 
+{Id: 29, Service_name: 'cifDebitBalance_sys', Layer: 'SYS', Hits: '7645', Date_day: '2025-04-24 00:00:00.000000'}
+29
+: 
+{Id: 30, Service_name: 'genericJanSuraksha_sys', Layer: 'SYS', Hits: '832', Date_day: '2025-04-24 00:00:00.000000'}
+30
+: 
+{Id: 31, Service_name: 'thirdPartywealthservices_sys', Layer: 'SYS', Hits: '205', Date_day: '2025-04-24 00:00:00.000000'}
