@@ -1,1 +1,1 @@
-hi
+FAR ID <b>343709</b> is raised for <b>FAR for Permanent Communication between EIS Servers and CMP Server in Production </b> which is now at <b>open</b> with initial Requested Source <b>10.177.40.10-10.177.40.254, 10.177.41.10-10.177.41.254, 10.188.24.10-10.188.24.254, 10.188.25.10-10.188.25.254</b> and initial Requested Destionation <b>10.176.34.22, 10.176.35.77, 10.177.80.77, 10.191.71.253, 10.191.71.252, 10.191.70.117</b> for service/port <b>tcp/443</b> . It's Dependent Department is <b>CMP & SCFU</b> and Zone <b>PROD</b> Since it is Permanent Rule ,it has no Expiry
